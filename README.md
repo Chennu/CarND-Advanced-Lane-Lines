@@ -68,7 +68,7 @@ I used a combination of color and gradient thresholds to generate a binary image
 
 Here's an example of my output for this step:
 
-![Original "test2.jpg"](./output_images/test_images/test2.jpg)
+![Original "test2.jpg"](test_images/test2.jpg)
 ![Undistorted binary "test2.jpg"](output_images/binary/binary_test2.jpg)
 
 
