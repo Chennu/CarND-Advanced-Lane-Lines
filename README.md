@@ -1,7 +1,4 @@
 # **Advanced Lane Finding**
-
-[Exported Jupyter notebook](https://github.com/Chennu/CarND-Advanced-Lane-Lines/Advanced_Lane_Finding_Chennu.html)
-
 ---
 
 ## From Udacity:
